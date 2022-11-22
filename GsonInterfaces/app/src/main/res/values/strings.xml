@@ -3,4 +3,5 @@
     <string name="and_the_fruit_is">And the fruit is : ...</string>
     <string name="load_fruit">load fruit</string>
     <string name="save_random_fruit">Save random fruit</string>
+    <string name="save">Save</string>
 </resources>

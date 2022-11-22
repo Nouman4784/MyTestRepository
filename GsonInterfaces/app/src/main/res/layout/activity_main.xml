@@ -50,7 +50,7 @@
                 android:layout_margin="20dp"
                 android:background="@color/teal_700"
                 android:padding="20dp"
-                android:text="@string/save_random_fruit"
+                android:text="@string/save"
                 android:textColor="@color/white"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
